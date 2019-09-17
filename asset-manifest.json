@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-tutorial-movie-app/static/css/main.59ee9da6.chunk.css",
-    "main.js": "/React-tutorial-movie-app/static/js/main.5f989e88.chunk.js",
-    "main.js.map": "/React-tutorial-movie-app/static/js/main.5f989e88.chunk.js.map",
-    "runtime~main.js": "/React-tutorial-movie-app/static/js/runtime~main.b2f9809d.js",
-    "runtime~main.js.map": "/React-tutorial-movie-app/static/js/runtime~main.b2f9809d.js.map",
-    "static/js/2.83bbbe30.chunk.js": "/React-tutorial-movie-app/static/js/2.83bbbe30.chunk.js",
-    "static/js/2.83bbbe30.chunk.js.map": "/React-tutorial-movie-app/static/js/2.83bbbe30.chunk.js.map",
-    "index.html": "/React-tutorial-movie-app/index.html",
-    "precache-manifest.5b4dc145476831bf85d90661dea37634.js": "/React-tutorial-movie-app/precache-manifest.5b4dc145476831bf85d90661dea37634.js",
-    "service-worker.js": "/React-tutorial-movie-app/service-worker.js",
-    "static/css/main.59ee9da6.chunk.css.map": "/React-tutorial-movie-app/static/css/main.59ee9da6.chunk.css.map"
+    "main.css": "/React-movie-app/static/css/main.59ee9da6.chunk.css",
+    "main.js": "/React-movie-app/static/js/main.5f989e88.chunk.js",
+    "main.js.map": "/React-movie-app/static/js/main.5f989e88.chunk.js.map",
+    "runtime~main.js": "/React-movie-app/static/js/runtime~main.135b9cf3.js",
+    "runtime~main.js.map": "/React-movie-app/static/js/runtime~main.135b9cf3.js.map",
+    "static/js/2.83bbbe30.chunk.js": "/React-movie-app/static/js/2.83bbbe30.chunk.js",
+    "static/js/2.83bbbe30.chunk.js.map": "/React-movie-app/static/js/2.83bbbe30.chunk.js.map",
+    "index.html": "/React-movie-app/index.html",
+    "precache-manifest.8313cea68faff9531ec190ae59680cb4.js": "/React-movie-app/precache-manifest.8313cea68faff9531ec190ae59680cb4.js",
+    "service-worker.js": "/React-movie-app/service-worker.js",
+    "static/css/main.59ee9da6.chunk.css.map": "/React-movie-app/static/css/main.59ee9da6.chunk.css.map"
   }
 }
